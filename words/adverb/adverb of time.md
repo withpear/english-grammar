@@ -13,7 +13,7 @@ Later
 Later还可以放在句子中间(main verb前面) 
 • “She spoke to an adviser later.”    -- 无强调
 • “Later, she spoke to an adviser.”   -- 放前面强调时间
-• “She later spoke to an adviser.”    -- 略带正式，可能在报告中使用
+• “She later spoke to an adviser.”    -- 略带正式，一般在报告中使用
 
 Yet
 Yet不能放在句子开头（除非做连词），但是可以放在句子中间(main verb 前面 && (not后面 || auxiliary verbs后面 ) 
