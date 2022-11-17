@@ -281,9 +281,3 @@ use a modifier in the correct technical position, but its meaning can be miscons
 
 "Walking down the road, I heard the birds singing."
  ---------------------                             modify 'I' 
-
-
-
- Q：
- 1. finite verb and non-finite verb  #P118 P126
- 2. 
